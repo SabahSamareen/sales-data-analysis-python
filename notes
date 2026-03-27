@@ -1,0 +1,3 @@
+Why didn’t slicer work on raw data?
+Because the dashboard visuals were based on pivot tables, and slicers applied to raw data do not automatically 
+propagate to pivot tables in Google Sheets.
