@@ -54,15 +54,6 @@ The objective of this project is to perform exploratory data analysis (EDA) on a
 
 * Compared profit across categories
 
-### Loss Analysis
-
-* Detected transactions with negative profit
 
 ---
 
-## Key Insights
-
-* Certain categories contribute significantly higher revenue
-* Regional performance varies, indicating market differences
-* Some transactions result in losses despite high sales
-* Sales trends show variation over ti
